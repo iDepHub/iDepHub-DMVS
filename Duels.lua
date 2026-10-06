@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://idephub.vercel.app/iDephub.lua"))()
+loadstring(game:HttpGet("https://idephub.idephub-scripts.workers.dev/iDephub.lua"))()
